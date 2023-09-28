@@ -1,0 +1,71 @@
+#banner {
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;justify-content: space-between;
+    
+}
+
+.left-banner{
+    width: 500px;
+    height: 100%;
+ margin-left: 150px;
+    
+}
+.left-banner h1{
+    font-family: cursive;
+    font-size: 50px;
+}
+.left-banner h3{
+    font-family: cursive;
+    font-size: 20px;
+    padding-top: 20px;
+}
+span{
+   
+    color: tomato;
+}
+.btn{
+    padding: 10px 15px;
+    border: none;
+   border-radius: 7px;
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-weight: 600;
+    color:white;
+}
+.right-banner img{
+    width: 500px;
+    margin-right: 150px;
+}
+#blog-banner{
+    display: flex;
+    justify-content:space-between ;
+    padding: 50px;
+    padding-right:50px ;
+}
+.blog{
+    margin-top: 100px;
+}
+#exprience-life{
+    padding: 0 50px 0 50px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.exparience-left{
+    width: 500px;
+    height: 100%;
+    padding:15px 15px 25px 20px ;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.exparience-Right{ 
+    width: 500px;
+    height: 100%;
+    padding:15px 15px 25px 20px ;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
+}
+
+    
